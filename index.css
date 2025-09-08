@@ -60,7 +60,7 @@ body {
     display: block;
     width: 250px;
     height: 60px;
-    background-image: url('https://firebasestorage.googleapis.com/v0/b/himalayan-host-actno.firebasestorage.app/o/miracle%20wedding%2Fmiracle%20events%20(1).png?alt=media&token=36e2818b-9e84-432b-b61a-2bcb4bd86f76');
+    background-image: url('assets/images/logo-header.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left center;
@@ -126,7 +126,7 @@ body {
     height: 100vh;
     min-height: 600px;
     color: var(--light-text-color);
-    background: linear-gradient(rgba(74, 14, 58, 0.7), rgba(74, 14, 58, 0.7)), url('https://firebasestorage.googleapis.com/v0/b/himalayan-host-actno.firebasestorage.app/o/miracle%20wedding%2FFashion%20Show%20by%20Miraclevents.jpg?alt=media&token=e7dcc22b-e6ab-40b0-afca-487944ad3130') no-repeat center center/cover;
+    background: linear-gradient(rgba(74, 14, 58, 0.7), rgba(74, 14, 58, 0.7)), url('assets/images/hero-bg.jpg') no-repeat center center/cover;
     padding: 0 1rem;
 }
 
@@ -397,7 +397,7 @@ body {
     display: block;
     width: 300px;
     height: 72px;
-    background-image: url('https://firebasestorage.googleapis.com/v0/b/himalayan-host-actno.firebasestorage.app/o/miracle%20wedding%2Fmiracle%20events%20center%20aligned%20logo%20for%20dark%20background.png?alt=media&token=b52410e8-d14d-414f-8065-3e62bae089c8');
+    background-image: url('assets/images/logo-footer.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
